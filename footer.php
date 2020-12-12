@@ -8,7 +8,7 @@
             </div>
         </div>
     </div>
-    <!-- end footer wrapper -->
+    <!-- end footer er -->
 
     <!--all js here-->
 </body>
